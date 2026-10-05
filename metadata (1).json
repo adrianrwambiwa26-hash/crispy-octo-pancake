@@ -1,0 +1,6 @@
+{
+  "name": "SatoshiForge AI - Bitcoin Mining & Hash Engine",
+  "description": "High-performance Bitcoin double-SHA256 mining simulator and real-time AI hash analytics engine targeting BTC address 1KAannFXUtEN1UooYvWjhHaT41z8iRuuKY.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
